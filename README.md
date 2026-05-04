@@ -1,43 +1,33 @@
-# Astro Starter Kit: Minimal
+# 🌿 Chlorofy - Sustainable Digital Solutions
 
-```sh
-npm create astro@latest -- --template minimal
-```
+**Chlorofy** adalah proyek inovasi infrastruktur digital berkelanjutan yang dikembangkan oleh tim **Strawberry Coding Club 3** untuk kompetisi **SEFEST 2026**. Proyek ini bertujuan untuk memperkenalkan harmoni antara teknologi masa depan (seperti AI dan Smart Grid) dengan kelestarian alam demi mengurangi emisi karbon.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+---
 
-## 🚀 Project Structure
+## 🚀 Deskripsi Proyek
 
-Inside of your Astro project, you'll see the following folders and files:
+Website ini adalah landing page interaktif yang menyajikan visi dan solusi dari Chlorofy. Dibangun menggunakan teknologi modern untuk memastikan performa yang cepat, desain yang responsif (Mobile-First), dan aksesibilitas yang optimal.
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+### 🛠️ Tech Stack yang Digunakan:
+- **Framework:** [Astro](https://astro.build/)
+- **UI/UX & Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Ikon & Font:** FontAwesome & Google Sans
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+---
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+## 🛠️ Panduan Menjalankan Proyek Secara Lokal
 
-Any static assets, like images, can be placed in the `public/` directory.
+Ikuti langkah-langkah di bawah ini untuk menjalankan karya ini di perangkat anda:
 
-## 🧞 Commands
+### 1. Prasyarat (Prerequisites)
+Pastikan kamu sudah menginstal:
+- [Node.js](https://nodejs.org/) (Versi 18.x atau yang lebih baru)
+- Terminal atau Command Prompt
 
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+### 2. Kloning Repository
+Buka terminal dan jalankan perintah berikut untuk mengunduh kode proyek:
+```bash
+git clone <URL-REPOSITORY-GITHUB>
+cd <NAMA-FOLDER-REPOSITORY>
+lalu jangan lupa ketikan npm install
+untuk menjalankan ketikkan npm run dev
